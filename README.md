@@ -58,6 +58,3 @@
 ## GitHub Stats 📊
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pooja180801&show_icons=true&theme=radical)
 
-## GitHub Activity Graph 📈  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pooja180801&theme=github-dark)
-
