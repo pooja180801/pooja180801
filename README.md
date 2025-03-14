@@ -52,3 +52,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pooja180801&show_icons=true&locale=en" alt="pooja180801" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pooja180801&" alt="pooja180801" /></p>
+## GitHub Stats 📊
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?user=pooja180801&" alt="pooja180801" &show_icons=true&theme=radical)
