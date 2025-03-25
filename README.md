@@ -7,14 +7,6 @@
 
 ---
 
-### 🚀 About Me  
-- 🌱 I’m currently learning **MERN stack**  
-- 👨‍💻 Check out my projects: [GitHub Profile](https://github.com/pooja180801)  
-- 💬 Ask me about **React.js, Spring Boot, Java**  
-- 📫 Reach me at **kulampooja@gmail.com**  
-
----
-
 ### 🌐 Connect with Me  
 <p align="center">
   <a href="mailto:kulampooja@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -27,7 +19,15 @@
 ### 🛠️ Languages and Tools  
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,java,spring,python,mysql,postgres,php,git,tailwind,bootstrap,postman,vscode,mui,jetbrains" />
+</p>
 
+---
+
+### 🏆 GitHub Trophies  
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pooja180801&row=1&column=4&theme=radical" alt="Pooja's GitHub Trophies" />
+  </a>
 </p>
 
 ---
@@ -43,5 +43,4 @@
 
 ---
 
-🎯 **Fun Fact**: Coding is like magic, but with logic! ✨🚀  
-
+🎯 **Fun Fact**: Coding is like magic, but with logic! ✨🚀
